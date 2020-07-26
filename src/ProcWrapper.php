@@ -65,6 +65,11 @@ class ProcWrapper
         }
     }
 
+    public function getOutput()
+    {
+        return $this->process->getOutput();
+    }
+
     public function waitUntil(callable $callback)
     {
         $this->process->waitUntil($callback);
