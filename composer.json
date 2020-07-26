@@ -1,6 +1,6 @@
 {
     "name": "undercoder/procwrapper",
-    "description": "",
+    "description": "A simple wrapper to Symphony process component. Only for my sake.",
     "type": "library",
     "license": "MIT",
     "authors": [
