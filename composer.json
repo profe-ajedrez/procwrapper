@@ -1,0 +1,22 @@
+{
+    "name": "undercoder/procwrapper",
+    "description": "",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andres Reyes",
+            "email": "chess.coach.ar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "undercoder\\procwrapper\\": "src"
+        }
+    }, 
+    "require": {
+        "monolog/monolog": "^2.1",
+        "filp/whoops": "^2.7",
+        "symfony/process": "^5.1"
+    }
+}
