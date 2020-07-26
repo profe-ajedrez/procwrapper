@@ -15,8 +15,8 @@
         }
     }, 
     "require": {
-        "monolog/monolog": "^2.1",
-        "filp/whoops": "^2.7",
-        "symfony/process": "^5.1"
+        "monolog/monolog": "^2.1-stable",
+        "filp/whoops": "^2.7-stable",
+        "symfony/process": "^5.1-stable"
     }
 }
